@@ -21,4 +21,6 @@ pillow==6.2.1 \
 matplotlib \
 pandas
 ## Usage
+Learning without forgetting strategy is used in this implementation.\
+
 Pretrained backbone MobilenetV2 is in model/ directory. Pretrained model is in the output/ directory. Use the train.py to train the lifelong leanring model from the scratch.
