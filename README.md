@@ -19,5 +19,6 @@ tqdm \
 torchsummary \
 pillow==6.2.1 \
 matplotlib \
-pandas \
+pandas
+
 
